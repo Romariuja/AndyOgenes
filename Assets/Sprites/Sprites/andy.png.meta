@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: ff5a4b967bc29d549b35e437e925546c
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bolsa_Atillo
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 47
+        height: 49
+      alignment: 9
+      pivot: {x: .285087854, y: .706140637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atillo
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 251
+        width: 138
+        height: 32
+      alignment: 9
+      pivot: {x: .854587674, y: .822057068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: antebrazo_der
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 178
+        width: 53
+        height: 55
+      alignment: 9
+      pivot: {x: .251414269, y: .867304564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brazo_der
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 202
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: .630124152, y: .865973711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bufanda_arriba
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 219
+        width: 28
+        height: 25
+      alignment: 9
+      pivot: {x: .798006892, y: .113532715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bufanda_medio
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 217
+        width: 53
+        height: 30
+      alignment: 9
+      pivot: {x: .906023443, y: .134027615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bufanda_abajo
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 202
+        width: 48
+        height: 15
+      alignment: 9
+      pivot: {x: .870853007, y: .331089914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brazo_izq
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 162
+        width: 27
+        height: 33
+      alignment: 9
+      pivot: {x: .256017625, y: .846011996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pulgar
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 191
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indice
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 191
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: medio
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 190
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anular
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 188
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "me\xF1ique"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: torso
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 65
+        height: 80
+      alignment: 9
+      pivot: {x: .614859343, y: .285905659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cabeza
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 142
+        width: 38
+        height: 50
+      alignment: 9
+      pivot: {x: .350283533, y: .159420714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pelo_arriba
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 182
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: .255336225, y: .246275157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: antebrazo_izq
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 136
+        width: 30
+        height: 54
+      alignment: 9
+      pivot: {x: .377032459, y: .112498865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pelo_medio
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 171
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pelo_abajo
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 161
+        width: 10
+        height: 8
+      alignment: 9
+      pivot: {x: .290676892, y: .262132645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muslo_der
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 61
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: .590416849, y: .758997023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pie_der
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 83
+        width: 33
+        height: 41
+      alignment: 9
+      pivot: {x: .739546359, y: .799920261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pie_izq
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 87
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: .390207916, y: .749257863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: punta5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 68
+        width: 17
+        height: 12
+      alignment: 9
+      pivot: {x: .690311193, y: .382047027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: capa
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 39
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: punta4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 58
+        width: 13
+        height: 10
+      alignment: 9
+      pivot: {x: .702205956, y: .661763787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pierna_izq
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: .402407318, y: .853057027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: punta3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 44
+        width: 17
+        height: 11
+      alignment: 9
+      pivot: {x: .797360599, y: .481617659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: punta2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 34
+        width: 20
+        height: 8
+      alignment: 9
+      pivot: {x: .863969445, y: .727480888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: punta_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 22
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cadera
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 100
+        width: 57
+        height: 42
+      alignment: 9
+      pivot: {x: .584751725, y: .625477374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: muslo_izq
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 58
+        width: 27
+        height: 41
+      alignment: 9
+      pivot: {x: .516265333, y: .778497279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pierna_der
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4
+        width: 35
+        height: 56
+      alignment: 9
+      pivot: {x: .713310242, y: .837218583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barriga
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 50
+        width: 44
+        height: 45
+      alignment: 9
+      pivot: {x: .639735401, y: .480482131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
