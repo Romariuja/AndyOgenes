@@ -1,0 +1,4 @@
+ToonBoomAnimationInc PaletteList 1
+palette-library/NewScenetrg LINK "C:/Users/Romariuja/Desktop/GitHub/NewScenetrg/palette-library/NewScenetrg.plt"
+palette-library/NewScene LINK "C:/Users/Romariuja/Desktop/GitHub/NewScenetrg/palette-library/NewScene.plt"
+palette-library/penstyle_opacity LINK "D:/OCIO/GitHub/AndyOgenes/Assets/Animations/gato/gato/palette-library/penstyle_opacity.plt"
